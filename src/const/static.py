@@ -1,0 +1,5 @@
+ICON_PATH = 'static/icon.png' 
+CORPUS_PATH = 'sqlite:///config/math_ide.db'
+PRE_DATA_PATH = 'config/predata.csv'
+CONFIG_PATH = 'config/config.json'
+ABOUT_PATH = 'config/about.txt'
